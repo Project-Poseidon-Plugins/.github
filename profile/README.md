@@ -1,0 +1,1 @@
+## Contributing to/creating plugins for [Project-Poseidon](https://github.com/retromcorg/Project-Poseidon).
